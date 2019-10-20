@@ -1,0 +1,2 @@
+tap-postgres==0.0.64
+target-csv==0.3.0

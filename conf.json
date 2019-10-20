@@ -1,0 +1,18 @@
+
+
+{
+
+    "host": "localhost",
+
+    "port": 5432,
+
+    "dbname": "hawkeye",
+
+    "user": "hawkeye",
+
+    "password": "hawkeye",
+
+    "schema": "public"
+
+}
+
